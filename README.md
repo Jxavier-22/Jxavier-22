@@ -4,6 +4,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <p align="right">
+	<img width="483" alt="Asset 4@2x" src="https://github.com/user-attachments/assets/f491e345-a4bb-4dd0-ba40-eeb59cc67c99">
     <img width="500" src="https://github.com/user-attachments/assets/b87ed3f3-d664-4265-89e0-b6b3f2b6c763">
 </p>
 
