@@ -11,7 +11,7 @@
 <h2>⚡️Algunos datos breves</h2>
 <br>
 <ul>
-    <li>🔭 Actualmente estoy trabajando en el área SOFTWARE.</li>
+    <li>🔭 Actualmente estoy estudiando la carrera de Ingenieria en Sistema.</li>
     <li>👨‍💻 La mayoría de mis proyectos están disponibles en Github</li>
     <li></li>
     <li> </li>
